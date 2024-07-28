@@ -1,10 +1,10 @@
 # BCG Virtual Internship by Forage
 ![Untitled](https://github.com/user-attachments/assets/ecc75737-6744-4146-878e-10e1fdd1e4ee)
 
-This is not an official internship program by Boston Consulting Group (BCG). This virtual internship will allow data scientist to focused on modeling data to be able to accurately predict an outcome, for example, predicting how likely customers are to leave (churn). 
+This virtual internship will allow data scientist to focused on modeling data to be able to accurately predict an outcome, for example, predicting how likely customers are to leave (churn). 
 
 Brief introduction to our business case:
-- Your client is **PowerCo** - a major gas and electricity utility that supplies to small and medium sized enterprises.
+- Our client is **PowerCo** - a major gas and electricity utility that supplies to small and medium sized enterprises.
 - The energy market has had a lot of **change** in recent years and there are more options than ever for customers to choose from.
 - PowerCo are concerned about their **customers leaving for better offers** from other energy providers. When a customer leaves to use another service provider, this is called **churn**.
 - This is becoming a big issue for PowerCo and they have engaged BCG to help **diagnose the reason why their customers are churning**.
