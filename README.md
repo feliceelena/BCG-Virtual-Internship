@@ -1,8 +1,6 @@
 # BCG Virtual Internship by Forage
 ![Untitled](https://github.com/user-attachments/assets/ecc75737-6744-4146-878e-10e1fdd1e4ee)
 
-This virtual internship will allow data scientist to focused on modeling data to be able to accurately predict an outcome, for example, predicting how likely customers are to leave (churn). 
-
 Brief introduction to our business case:
 - Our client is **PowerCo** - a major gas and electricity utility that supplies to small and medium sized enterprises.
 - The energy market has had a lot of **change** in recent years and there are more options than ever for customers to choose from.
